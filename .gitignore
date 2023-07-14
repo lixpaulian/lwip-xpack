@@ -6,6 +6,7 @@
 *.suo
 *.log
 .depend*
+*.tgz
 
 /.vscode/ipch
 

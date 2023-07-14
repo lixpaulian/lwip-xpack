@@ -1,0 +1,13 @@
+{
+	"name": "@lix/lwip",
+	"version": "2.2.0-1",
+	"description": "lwIP is a small independent implementation of the TCP/IP protocol suite",
+	"author": {
+		"name": "Lix N. Paulian",
+		"email": "lix@paulian.net"
+	},
+	"license": "BSD",
+	"xpack": {
+		"minimumXpmRequired": "0.16.2"
+	}
+}

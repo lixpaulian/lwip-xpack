@@ -1,0 +1,7 @@
+/.vscode/
+/BUILDING
+/*.sh
+/doc/
+/*.tgz
+/test/
+/contrib/
